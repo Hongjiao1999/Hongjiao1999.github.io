@@ -66,7 +66,7 @@ disqus: # fromendworld
 gitalk:
   clientID: c09897af10f6b7101de4
   clientSecret: a841bcf696059155f9e62a408722ed99f9c2bf6d
-  repo: hongjiao1999.github.io
+  repo: Hongjiao1999.github.io
   owner: hongjiao1999
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking

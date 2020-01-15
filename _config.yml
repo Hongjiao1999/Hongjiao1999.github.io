@@ -64,8 +64,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: c09897af10f6b7101de4
-  clientSecret: a841bcf696059155f9e62a408722ed99f9c2bf6d
+  clientID: a37ec86bb1b4e2c56be8
+  clientSecret: ecbaf7361a945f849574df5d1e748269b8138e40
   repo: hongjiao1999.github.io
   owner: hongjiao1999
 
